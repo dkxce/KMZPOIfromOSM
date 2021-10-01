@@ -1,0 +1,122 @@
+C:\Downloads\CD-REC\TEST\KMZPOIfromOSM\KMZPOIfromOSM\bin\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\TEST\KMZPOIfromOSM\KMZPOIfromOSM\bin\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\TEST\KMZPOIfromOSM\KMZPOIfromOSM\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\KMZPOIfromOSM\KMZPOIfromOSM\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+C:\Downloads\CD-REC\TEST\KMZPOIfromOSM\KMZPOIfromOSM\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\TEST\KMZPOIfromOSM\KMZPOIfromOSM\obj\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\TEST\KMZPOIfromOSM\KMZPOIfromOSM\obj\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\TEST\KMZPOIfromOSM\KMZPOIfromOSM\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191010H\bin\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191010H\bin\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\KMZ_Sources\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZ_Sources\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZ_Sources\KMZPOIfromOSM_[Souces]_20191010H\bin\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZ_Sources\KMZPOIfromOSM_[Souces]_20191010H\bin\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZ_Sources\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\KMZ_Sources\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+C:\Downloads\CD-REC\KMZ_Sources\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+C:\Downloads\CD-REC\KMZ_Sources\KMZPOIfromOSM_[Souces]_20191010H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191011H\bin\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191011H\bin\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\[Sources]\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZPOIfromOSM_[Souces]_20191011H\bin\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZPOIfromOSM_[Souces]_20191011H\bin\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZPOIfromOSM_[Souces]_20191011H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191016H\KMZPOIfromOSM_[Souces]_20191016H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191016H\KMZPOIfromOSM_[Souces]_20191016H\obj\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191016H\KMZPOIfromOSM_[Souces]_20191016H\bin\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191016H\KMZPOIfromOSM_[Souces]_20191016H\bin\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191016H\KMZPOIfromOSM_[Souces]_20191016H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191016H\KMZPOIfromOSM_[Souces]_20191016H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191016H\KMZPOIfromOSM_[Souces]_20191016H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191016H\KMZPOIfromOSM_[Souces]_20191016H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191017H\KMZPOIfromOSM_[Souces]_20191017H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191017H\KMZPOIfromOSM_[Souces]_20191017H\obj\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191017H\KMZPOIfromOSM_[Souces]_20191017H\bin\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191017H\KMZPOIfromOSM_[Souces]_20191017H\bin\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191017H\KMZPOIfromOSM_[Souces]_20191017H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191017H\KMZPOIfromOSM_[Souces]_20191017H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191017H\KMZPOIfromOSM_[Souces]_20191017H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191017H\KMZPOIfromOSM_[Souces]_20191017H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\TEMP\KMZTools_[Sources]_20191023H\KMZPOIfromOSM_[Souces]_20191023H\obj\Debug\KMZPOIfromOSM.exe
+D:\TEMP\KMZTools_[Sources]_20191023H\KMZPOIfromOSM_[Souces]_20191023H\obj\Debug\KMZPOIfromOSM.pdb
+D:\TEMP\KMZTools_[Sources]_20191023H\KMZPOIfromOSM_[Souces]_20191023H\bin\Debug\KMZPOIfromOSM.exe
+D:\TEMP\KMZTools_[Sources]_20191023H\KMZPOIfromOSM_[Souces]_20191023H\bin\Debug\KMZPOIfromOSM.pdb
+D:\TEMP\KMZTools_[Sources]_20191023H\KMZPOIfromOSM_[Souces]_20191023H\obj\Debug\ResolveAssemblyReference.cache
+D:\TEMP\KMZTools_[Sources]_20191023H\KMZPOIfromOSM_[Souces]_20191023H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\TEMP\KMZTools_[Sources]_20191023H\KMZPOIfromOSM_[Souces]_20191023H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\TEMP\KMZTools_[Sources]_20191023H\KMZPOIfromOSM_[Souces]_20191023H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191025H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191025H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191025H\KMZPOIfromOSM_[Souces]_20191025H\bin\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191025H\KMZPOIfromOSM_[Souces]_20191025H\bin\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191025H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191025H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191025H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191025H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191026H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191026H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191026H\KMZPOIfromOSM_[Souces]_20191025H\bin\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191026H\KMZPOIfromOSM_[Souces]_20191025H\bin\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191026H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191026H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191026H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191026H\KMZPOIfromOSM_[Souces]_20191025H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191028W\KMZPOIfromOSM_[Souces]_20191028W\obj\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191028W\KMZPOIfromOSM_[Souces]_20191028W\obj\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191028W\KMZPOIfromOSM_[Souces]_20191028W\bin\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191028W\KMZPOIfromOSM_[Souces]_20191028W\bin\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191028W\KMZPOIfromOSM_[Souces]_20191028W\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191028W\KMZPOIfromOSM_[Souces]_20191028W\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191028W\KMZPOIfromOSM_[Souces]_20191028W\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191028W\KMZPOIfromOSM_[Souces]_20191028W\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191106H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191106H\obj\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191106H\bin\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191106H\bin\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191106H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191106H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191106H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191106H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191107W\bin\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191107W\bin\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191106H\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191107W\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191107W\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191107W\KMZPOIfromOSM_[Souces]_20191107W\bin\Debug\KMZPOIfromOSM.exe
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191107W\KMZPOIfromOSM_[Souces]_20191107W\bin\Debug\KMZPOIfromOSM.pdb
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191107W\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191107W\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191107W\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+C:\Downloads\CD-REC\KMZTools_[Sources]_20191107W\KMZPOIfromOSM_[Souces]_20191107W\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200715H\KMZPOIfromOSM_[Souces]_20200717H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200715H\KMZPOIfromOSM_[Souces]_20200717H\obj\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200715H\KMZPOIfromOSM_[Souces]_20200717H\bin\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200715H\KMZPOIfromOSM_[Souces]_20200717H\bin\Debug\KMZPOIfromOSM.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200715H\KMZPOIfromOSM_[Souces]_20200717H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200715H\KMZPOIfromOSM_[Souces]_20200717H\obj\Debug\KMZPOIfromOSM.KMZPOIMainForm.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200715H\KMZPOIfromOSM_[Souces]_20200717H\obj\Debug\KMZPOIfromOSM.Properties.Resources.resources
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200715H\KMZPOIfromOSM_[Souces]_20200717H\obj\Debug\KMZPOIfromOSM.csproj.GenerateResource.Cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20210830H\KMZPOIfromOSM_[Souces]_20200717H\obj\Debug\KMZPOIfromOSM.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20210830H\KMZPOIfromOSM_[Souces]_20200717H\obj\Debug\KMZPOIfromOSM.pdb
