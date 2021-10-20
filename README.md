@@ -1,7 +1,7 @@
 # KMZ POI from OSM
 Create KMZ file from OSM or OSM POI file (converter)   
 
-You can user result files in [Google MyMaps](https://www.google.com/maps/d/), [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) and [KMZViewer](https://github.com/dkxce/KMZViewer)
+You can use result files in [Google MyMaps](https://www.google.com/maps/d/), [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) and [KMZViewer](https://github.com/dkxce/KMZViewer)
 
 ### Get OpenStreetMap DATA - Данные OpenStreetMap
 
