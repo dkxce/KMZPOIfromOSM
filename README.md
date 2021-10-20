@@ -8,3 +8,5 @@ Get OSM Map [bbike](https://extract.bbbike.org/), use:  Protocolbuffer (PBF) or 
 Получение данных OSM [bbike](https://extract.bbbike.org/), use:  Protocolbuffer (PBF) or MapsForge (OSM) file formats  
 
 <img src="window.png"/>
+<img src="window2.png"/>
+<img src="window3.png"/>
